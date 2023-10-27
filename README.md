@@ -7,6 +7,6 @@
 - Recoil
 - Styled-components
 - Material UI
-- Jasmine
+- Jest
 - UUID
 - Auth0
