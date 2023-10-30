@@ -1,3 +1,7 @@
-const App = () => <h1>Hola Mundo</h1>;
+import AppRoutes from './routes/routes';
+
+const App = () => {
+  return <AppRoutes />;
+};
 
 export default App;
